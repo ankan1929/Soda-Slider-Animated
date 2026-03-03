@@ -28,7 +28,7 @@ header ul{
     height: 100vh;
     position: relative;
     overflow: hidden;
-    margin-top: -40px;
+    margin-top: -59px;
 }
 .list{
     width: 100%;
@@ -189,4 +189,5 @@ header ul{
 .right .item.active img.fruit,
 .right .item.active .content{
     animation: toActivePrev .8s ease-in-out 1;
+
 }
