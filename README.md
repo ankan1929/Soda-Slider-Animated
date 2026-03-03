@@ -2,10 +2,13 @@
 soda slider
 
 
-## Screenshots
+## 📸 Project Screenshots
 
-![1st Page](Screenshot 2025-08-05 012550.png)
+### 🏠  Page1
+![Home Page](p1.png)
 
-![2nd Page](Screenshot 2025-08-05 012606.png)
+### 🏠  Page2
+![Cart Page](p2.png)
 
-![3nd Page](Screenshot 2025-08-05 012629.png)
+### 🏠  Page3
+![Login Page](p3.png)
